@@ -1,3 +1,4 @@
+#program to copy from one file to another using system call interface.
 import os #import os module
 bsize = 16384 #buffer size
 fin = os.open("foo", os.O_RDONLY) #open file in read only mode.
