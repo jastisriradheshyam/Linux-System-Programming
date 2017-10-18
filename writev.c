@@ -1,3 +1,4 @@
+/* Program to demonstrate the use of writev (write vector I/O) function */
 #include <stdio.h> /* perror, printf function */
 #include <sys/types.h> /* ssize */
 #include <fcntl.h> /* open function and flags (O_CREAT,etc) */
