@@ -12,3 +12,6 @@ Simple python program to **copy** data from file "foo" to "bar". File operations
 
 ## :snake: python_standard_copy.py
 Simple python program to **copy** data from file "foo" to "bar". File operations are _**without**_ system call interface **(OS Module)**.
+
+## writev.c
+Simple program to demonstrate the use of **writev (write vector I/O)** function which is a part of **Scatter/Gather I/O**.
