@@ -1,6 +1,6 @@
 /* Trivial file copy program using standard I/O library */
 
-#include <stdio.h>
+#include <stdio.h> /* fopen, fread, fwrite, fclose functions */
 #define BSIZE 16384
 
 void main()
