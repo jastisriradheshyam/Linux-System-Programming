@@ -22,7 +22,7 @@ int main ()
   iov[i].iov_len = strlen(buf[i]);
  }
  /* with a single call, write them all out */
- no_of_bytes = writev (fd, iov, 3); /* write the data 
+ no_of_bytes = writev (fd, iov, 3); /* write the data */
  if(no_of_bytes == -1){
   perror ("writev");
   return 1;
