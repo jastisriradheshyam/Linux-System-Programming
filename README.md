@@ -2,6 +2,9 @@
 Linux System Programs. Based on **IEEE POSIX.1** standard and closer to **SUSv4** standard.  
 More on [Linux System Programming Wiki](https://github.com/jastisriradheshyam/Linux-System-Programming/wiki)
 
+## hello_world.c
+Simple program that **write "Hello World"** to a file.
+
 ## low_level_copy.c
 Simple copy program that **copies** data from file "foo" to file "bar". File operations are done with only **low-level I/O functions**.
 
