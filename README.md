@@ -1,5 +1,5 @@
 # Linux-System-Programming
-Linux System Programs. Based on IEEE POSIX.1 standard and close to SUSv4 standard.  
+Linux System Programs. Based on **IEEE POSIX.1** standard and closer to **SUSv4** standard.  
 More on [Linux System Programming Wiki](https://github.com/jastisriradheshyam/Linux-System-Programming/wiki)
 
 ## low_level_copy.c
